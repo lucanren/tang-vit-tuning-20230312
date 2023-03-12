@@ -1,0 +1,31 @@
+Epoch 0: saved sucessfully.
+Epoch 0 train loss is:0.09237909906176682
+Epoch 0 val loss is:0.0034748852434431147
+Epoch 1: saved sucessfully.
+Epoch 1 train loss is:0.013309658899643775
+Epoch 1 val loss is:0.007008866215234294
+Epoch 2: saved sucessfully.
+Epoch 2 train loss is:0.012609837041277524
+Epoch 2 val loss is:0.0028856145474813223
+Epoch 3: saved sucessfully.
+Epoch 3 train loss is:0.012164959990348818
+Epoch 3 val loss is:0.007926958654185428
+Epoch 4: saved sucessfully.
+Epoch 4 train loss is:0.011891094412542946
+Epoch 4 val loss is:0.0029286177698796723
+Epoch 5: saved sucessfully.
+Epoch 5 train loss is:0.01188378295913746
+Epoch 5 val loss is:0.0032241854282534298
+Epoch 6: saved sucessfully.
+Epoch 6 train loss is:0.6650185010671481
+Epoch 6 val loss is:0.17797012276509228
+Epoch 7: saved sucessfully.
+Epoch 7 train loss is:0.02110146418233555
+Epoch 7 val loss is:0.00459779766114319
+Epoch 8: saved sucessfully.
+Epoch 8 train loss is:0.019636682721718857
+Epoch 8 val loss is:0.007080588969128097
+Epoch 9: saved sucessfully.
+Epoch 9 train loss is:0.015426583804117888
+Epoch 9 val loss is:0.0034021131475182142
+Correlation is 0.02702736976264179
